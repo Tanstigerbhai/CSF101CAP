@@ -8,7 +8,7 @@
 ################################
 # SOLUTION
 # Your Solution Score:50055
-# Put your number here
+# Put your number here:50055
 # input_1_cap1.txt()
 ################################
 
