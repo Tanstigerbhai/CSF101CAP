@@ -7,7 +7,7 @@
 # @DQ-Logo
 ################################
 # SOLUTION
-# Your Solution Score:49801
+# Your Solution Score:50055
 # Put your number here
 # input_1_cap1.txt()
 ################################
